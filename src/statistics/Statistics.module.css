@@ -1,0 +1,9 @@
+ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+
+li:not(:last-child) {
+  margin-bottom: 5px;
+}
